@@ -130,7 +130,7 @@
 
     <script type="module">
         import { GoogleGenerativeAI } from "https://esm.run/@google/generative-ai";
-        const API_KEY = "PASTE_API_KEY_KAMU_DISINI";
+        const API_KEY = "AIzaSyA8M6x4ILlSQnlt1uB8PHSxtMtShb4RLRE";
         const genAI = new GoogleGenerativeAI(API_KEY);
         
         let currentKTP = "";
