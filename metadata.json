@@ -1,0 +1,7 @@
+{
+  "name": "BAZNAS Kota Jambi - Smart Amil Portal",
+  "description": "A high-end administrative portal for BAZNAS Jambi featuring Smart Amil AI for automated mustahik (zakat recipient) verification and distribution analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
